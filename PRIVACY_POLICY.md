@@ -1,8 +1,8 @@
 # Privacy Policy — Tasbih
 
-_Last updated: [DATE]_
+_Last updated: 23/11/2026_
 
-Tasbih ("the app") is a dhikr counter. **It does not collect, transmit, sell or share any personal data.**
+Tasbih is a dhikr counter. **It does not collect, transmit, sell or share any personal data.**
 
 **What the app stores, on your phone only**
 - The name you type on first launch (used to greet you)
@@ -21,4 +21,4 @@ Open Settings → "Clear all dhikr history", or uninstall the app. Both remove t
 The app does not knowingly collect information from anyone, including children.
 
 **Contact**
-Questions: [your email address]
+Questions:akeelshafi.dev@gmail.com
