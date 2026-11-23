@@ -1,4 +1,9 @@
+---
+title: Privacy Policy
+permalink: /privacy-policy/
+---
 # Privacy Policy — Tasbih
+
 
 _Last updated: 23/11/2026_
 
